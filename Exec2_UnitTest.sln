@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISpanUtilities", "TaiwainStockUtility\ISpanUtilities.csproj", "{09E6D50B-7FEA-4844-9DB6-1C7A713A0FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsTradingTimeTests", "IsTradingTimeTests\IsTradingTimeTests.csproj", "{BBB52321-C2D7-4218-90A7-56C2048A9582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E6D50B-7FEA-4844-9DB6-1C7A713A0FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E6D50B-7FEA-4844-9DB6-1C7A713A0FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E6D50B-7FEA-4844-9DB6-1C7A713A0FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E6D50B-7FEA-4844-9DB6-1C7A713A0FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB52321-C2D7-4218-90A7-56C2048A9582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB52321-C2D7-4218-90A7-56C2048A9582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB52321-C2D7-4218-90A7-56C2048A9582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB52321-C2D7-4218-90A7-56C2048A9582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {438045FC-FCC2-411C-AE5F-CA1F096C1892}
+	EndGlobalSection
+EndGlobal
